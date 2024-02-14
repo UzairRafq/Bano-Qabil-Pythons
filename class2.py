@@ -9,4 +9,4 @@ st.write(df)
 
 # or
 df  #magic comments
-st area chart(df)
+st area_chart(df)
